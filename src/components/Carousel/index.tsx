@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import CarouselStrap from 'react-bootstrap/Carousel';
 // import Image from '../../public/editing.jpg';
 import Image from 'next/image'
