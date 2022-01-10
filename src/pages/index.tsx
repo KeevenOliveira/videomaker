@@ -12,8 +12,8 @@ const Home: NextPage = () => {
         <title>Art || Page</title>
       </Head>
       <Container>
-        <Header/>
-        <Carousel/>
+        <Header />
+        <Carousel />
       </Container>
     </>
   )
