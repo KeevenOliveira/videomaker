@@ -1,8 +1,10 @@
+import { VideoStyle } from "./styles";
+
 const Video = () => {
   return (
-    <video width={"100%"} controls autoPlay muted>
+    <VideoStyle autoPlay muted loop>
       <source src="/art.mp4" type="video/mp4" />
-    </video>
+    </VideoStyle>
   );
 };
 export default Video;
